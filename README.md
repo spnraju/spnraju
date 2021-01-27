@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working on test automation
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m looking to collaborate on test automation tools
+- 🤔 I’m looking for help with learning web development
+- 💬 Ask me about anything related to quality engineering
+- 📫 How to reach me: Twitter @spnraju
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't have any fun facts!
 
 <!--
 **spnraju/spnraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
