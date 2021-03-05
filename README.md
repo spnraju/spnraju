@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Quality Engineering**
 
-- 📄 Portfolio: [spnraju.com](spnraju.com)
+- 📄 Portfolio: [spnraju.com](https://spnraju.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
